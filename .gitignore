@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# what to include
+!mods\ ree.zip
+!README.md
+!.gitignore
+!push-commands.bat
+!when_changed_fixed.exe
+!start-watching.bat
